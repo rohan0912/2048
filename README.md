@@ -9,13 +9,5 @@ This is a 2048 game built using React. The objective of the game is to combine t
 - Playable 2048 game with smooth animations.
 - Responsive UI with Material-UI components.
 - Keep track of the score.
-- Mobile-friendly design.
 
-## Installation
 
-Follow these steps to set up the project locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/react-2048.git
